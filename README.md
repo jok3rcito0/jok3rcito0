@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=jok3rcito0)
+
+- 🔭 I’m currently working on risuto.mx
+- 🌱 I’m currently learning at platzi.com
+- 👯 I’m looking to collaborate on jok3r.site
 
 <!--
 **jok3rcito0/jok3rcito0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=jok3rcito0)

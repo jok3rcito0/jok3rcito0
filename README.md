@@ -4,9 +4,7 @@
 
 <p><em>Full stack ninja developer</em></p>
 
-[![Github](https://img.shields.io/github/followers/jok3rcito0?style=social)](https://github.com/jok3rcito0)
-[![Github](https://img.shields.io/github/stars/jok3rcito0/jok3rcito0?style=social)](https://github.com/jok3rcito0/jok3rcito0)
-[![Github](https://img.shields.io/github/watchers/jok3rcito0/jok3rcito0?style=social)](https://github.com/jok3rcito0/jok3rcito0)
+[![jok3rcito0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jok3rcito0)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Twitter: jok3rcit0](https://img.shields.io/twitter/follow/jok3rcit0?style=social)](https://twitter.com/jok3rcit0)
 

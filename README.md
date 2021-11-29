@@ -4,7 +4,7 @@
 
 <p><em>Full stack ninja developer</em></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jok3rcito0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jok3rcito0)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Twitter: jok3rcit0](https://img.shields.io/twitter/follow/jok3rcit0?style=social)](https://twitter.com/jok3rcit0)
 

@@ -1,6 +1,7 @@
 <h2> Hi there 👋, I'm Juan</h2>
 
-<img align='right' src="https://gblobscdn.gitbook.com/assets%2F-MCk7YeGsFvTdtODRR2F%2F-MCk7bfCzoumsCdIfUpn%2F-MCk7elrHIaB6OqA6ma9%2F98279786_111285627262040_6470956968361066496_n.jpg?alt=media&token=efe2d642-66b1-4d2b-866a-5fd7540ceb22" width="130">
+<img width="50%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jok3rcito0&count_private=true&show_icons=true" />
+
 <p><em>Full stack ninja developer</em></p>
 
 [![Github](https://img.shields.io/github/followers/jok3rcito0?style=social)](https://github.com/jok3rcito0)

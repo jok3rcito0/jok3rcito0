@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Juan</h2>
 
-<p><em> ninja developer</em></p>
+<p align="right"><em> ninja developer</em></p>
 
 <img width="50%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jok3rcito0&count_private=true&show_icons=true" />
 

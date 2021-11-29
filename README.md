@@ -1,10 +1,10 @@
 <h2> Hi there 👋, I'm Juan</h2>
 
-<p align="right"><em> ninja developer</em></p>
+<p align="right"></p>
 
 <img width="50%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jok3rcito0&count_private=true&show_icons=true" />
 
-<p><em>Full stack </em></p>
+<p><em>Full stack ninja developer</em></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jok3rcito0)](https://github.com/anuraghazra/github-readme-stats)
 
